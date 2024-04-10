@@ -1,0 +1,3 @@
+pandas~=2.1.3
+spacy~=3.7.4
+flair~=0.9
